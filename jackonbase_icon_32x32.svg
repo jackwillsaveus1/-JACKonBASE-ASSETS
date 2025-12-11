@@ -1,0 +1,19 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="32"
+  height="32"
+  viewBox="0 0 32 32"
+  role="img"
+  aria-labelledby="title"
+>
+  <title id="title">$JACK on BASE Icon</title>
+
+  <!-- Show the exact 32x32 Jack PNG -->
+  <image
+    href="https://raw.githubusercontent.com/jackwillsaveus1/-JACKonBASE-ASSETS/main/icon_32x32_sharp.png"
+    x="0"
+    y="0"
+    width="32"
+    height="32"
+  />
+</svg>
