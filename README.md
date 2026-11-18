@@ -15,7 +15,7 @@ JACK is a community meme coin on Base, built around Jack the Beabull and the Tre
 
 ## Project links
 
-- [JACKonBASE website](https://jackonbase.mobirisesite.com/)
+- [JACKonBASE website](https://jackonbase.xyz/)
 - [JACKonBASE on X](https://x.com/jackwillsaveus1)
 - [Trench DAWGs on Telegram](https://t.me/trenchdawgs)
 
